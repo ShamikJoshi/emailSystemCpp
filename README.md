@@ -3,7 +3,7 @@ Email system using C++
 
 Given is the source code of the fully functional email system which is developed using c++ programming language. 
 Its features include: 
-1.Creating an account 
+1.Creating an account                                                                                                        
 2.Authentication using password 
 3.Viewing all accounts 
 4.SignUp 
